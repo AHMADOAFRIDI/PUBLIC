@@ -1,6 +1,6 @@
 # PUBLIC
 ## COMMAND HERE
-**termux-setup-storage
+termux-setup-storage
 pkg update && pkg upgrade
 pkg install python
 pkg install python2
